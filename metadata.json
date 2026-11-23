@@ -1,0 +1,6 @@
+{
+  "name": "CineStudio AI",
+  "description": "Studio professionnel de préproduction cinématographique assisté par intelligence artificielle : personnages, tenues, décors, scénarios, scènes, storyboards et génération d'images photoréalistes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
